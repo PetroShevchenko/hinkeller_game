@@ -30,6 +30,8 @@ Example: ./build.sh clean
 
 When the project is compiled there will be the hinkeller application in the root directory of the project.
 
+To get more details about compilation for different platforms, please read [How to build the project](BUILD.md)  
+
 <h3>Launching of the game</h3>
 Just type the following command in the system terminal (OSX and Linux):
 
